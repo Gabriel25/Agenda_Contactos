@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Agenda Contactos</string>
+
+    <string name="hello_world">Estoy en agregar</string>
+    <string name="action_settings">Tec Tlahuac III</string>
+    <string name="agregar_text">Agregar</string>
+    <string name="listar_text">Lista</string>
+    <string name="title_activity_agregar">Agregar</string>
+    <string name="title_activity_buscar">Buscar</string>
+    <string name="title_activity_buscar_persona">BuscarPersona</string>
+    <string name="title_activity_eliminar">eliminar</string>
+    <string name="title_activity_pre_modificar">pre_modificar</string>
+    <string name="title_activity_modificar">modificar</string>
+</resources>
